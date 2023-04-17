@@ -20,6 +20,11 @@ h2 {
     font-size: 22px;
 }
 
+h3 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
 /* HEADER */
 
 header {
@@ -107,6 +112,7 @@ header .row {
 /* SOCIALS */
 .socials {
     background-color: #3a546d;
+    color: white;
 }
 
 .socials .row {
@@ -115,10 +121,30 @@ header .row {
 
 }
 
+.socials i {
+    border: white 1px solid ;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.socials a {
+    text-decoration: none;
+    color: lightcoral;
+}
+
+.socials .col-10 {
+    padding: 20px 0px;
+}
+
 /* FOOTER */
 footer {
     background-color:#2c3e50 ;
     text-align: center;
+    color: white;
+    padding: 30px 0px;
 }
 
 
