@@ -89,12 +89,8 @@ header .row {
     text-align: left;
 }
 
-#download {
-    width: 150px;
-    padding: 5px 5px;
-    border-radius: 5px;
-    border: white 1px solid;
-    margin: auto;
+.btn {
+    
 }
 
 
