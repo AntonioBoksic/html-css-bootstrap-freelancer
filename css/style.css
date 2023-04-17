@@ -70,7 +70,7 @@ header .row {
 
 /* PORTFOLIO */
 .portfolio .row {
-    flex-direction: column;
+    
     align-items: center;
 }
 
@@ -116,8 +116,14 @@ header .row {
 }
 
 .socials .row {
-    
-    align-items: center;
+    justify-content: center;
+    align-items:center;
+    height: 100%;
+
+}
+
+.socials .col-md-4 {
+    height: 100%;
 
 }
 
